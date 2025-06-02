@@ -1,0 +1,3 @@
+DROP INDEX IF EXISTS idx_places_geo;
+
+DROP TABLE IF EXISTS places;
